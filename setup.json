@@ -1,14 +1,14 @@
 [
     {
         "session": "ses",
-        "token": "764xxxx91:AAFEm1xxxxxxz5txhxgmk",
-        "api_id": "26xxxx00",
-        "api_hash": "9ea494xxxxxxxxxxx4bbd",
+        "token": "7642906663:AAGF4V6GMNsL9DW8ixEMgKyLLsEdoQl8uos",
+        "api_id": "26544005",
+        "api_hash": "66f6221e5ce9109827b50eaf3d105025",
         "workers": 8,
-        "db_uri": "mongodb+srv://Clustexxxxxxxxxxx.net/?retryWrites=true&w=majority&appName=Cluster0",
+        "db_uri": "mongodb+srv://wtfbruh:KontolXD#123@fsub.brzgete.mongodb.net/?retryWrites=true&w=majority&appName=fsub",
         "db_name": "name",
-        "fsubs": [[-1002074478106, true, 5]],
-        "db": -1002074478106,
+        "fsubs": [[-1002818541265, true, 5]],
+        "db": -1002554488354,
         "auto_del": 0,
         "messages": {
             "START": "<blockquote expandable>__Lorem ipsum dolor sit amet,\nconsectetur adipiscing elit sed.\nVivamus luctus urna sed urna.\nCurabitur blandit tempus porttitor.\nNullam quis risus eget urna.__</blockquote>",
@@ -18,7 +18,7 @@
             "START_PHOTO": "",
             "FSUB_PHOTO": ""
         },
-        "admins": [78324663, 73468932],
+        "admins": [5870285414],
         "disable_btn": true,
         "protect": false
     }
