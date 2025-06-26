@@ -11,12 +11,12 @@
         "db": -1002797506458,
         "auto_del": 0,
         "messages": {
-            "START": "<blockquote expandable>__Lorem ipsum dolor sit amet,\nconsectetur adipiscing elit sed.\nVivamus luctus urna sed urna.\nCurabitur blandit tempus porttitor.\nNullam quis risus eget urna.__</blockquote>",
+            "START": "ʜᴇʟʟᴏ ᴘᴀsᴄᴏʟᴇʀ ᴘᴀsᴄᴏʟᴇʀ ɢᴀɴᴛᴇɴɢ\n\n<b>sᴇʙᴇʟᴜᴍ ᴍᴇɴᴏɴᴛᴏɴ ᴋᴀʟɪᴀɴ ᴊᴏɪɴ ᴅᴜʟᴜ ᴄʜᴀɴɴᴇʟ ᴀsᴜᴘᴀɴ ᴅɪ ʙᴀᴡᴀʜ.</b>",
             "FSUB": "",
             "ABOUT": "ABOUT MSG",
             "REPLY": "reply_text",
-            "START_PHOTO": "",
-            "FSUB_PHOTO": ""
+            "START_PHOTO": "https://telegra.ph/file/ec17880d61180d3312d6a.jpg",
+            "FSUB_PHOTO": "https://telegra.ph/file/e292b12890b8b4b9dcbd1.jpg"
         },
         "admins": [5648296402],
         "disable_btn": true,
