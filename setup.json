@@ -5,7 +5,7 @@
         "api_id": "23228407",
         "api_hash": "4bfbc373619628a8e6dd1d51da8c6fbc",
         "workers": 8,
-        "db_uri": "mongodb+srv://wtfbruh:KontolXD#123@fsub.brzgete.mongodb.net/?retryWrites=true&w=majority&appName=fsub",
+        "db_uri": "mongodb+srv://admin:kontol@adminkontol.jhnw9jq.mongodb.net/?retryWrites=true&w=majority&appName=adminkontol",
         "db_name": "name",
         "fsubs": [[-1002197595899, true, 5]],
         "db": -1002797506458,
